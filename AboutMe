@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>This is my first website</title>
+</head>
+<body>
+    <h1>Hello World!</h1>
+    <h1>I am Rahul Gupta. Here are my personal details</h1>
+    <img src="Rahul.jpeg"/>
+    <img src="Handsome.jpeg"/>
+    <a href="https://www.instagram.com/sci.rahulgupta/">Instagram</a>
+    <a href="https://www.linkedin.com/in/scirahulgupta/">LinkedIn</a>
+    <div>
+        <ul>
+          <li class="red-text" id = "blue-background">Name: Rahul Gupta '26</li>
+          <li class="red-text" id = "blue-background">Pronouns: He/Him/His</li>
+          <li class="red-text" id = "green-background">Date of Birth: 11/23/2001/li>
+          <li class="red-text" id = "blue-background">Hometown: Bhairahawa, Nepal</li>
+          <li class="red-text" id = "blue-background"></li>
+        </ul>
+    </div>
+<p>A passionate physicist striving to explore the unknown. A young philosopher pondering over the meaning of life and the universe. Skilled in Python (Programming Language), Analytics, Communication, Problem Solving, and Management. Experienced physics researcher with a demonstrated history of working in Particle Physics.</p>
+</body>
+
